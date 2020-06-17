@@ -13,7 +13,7 @@ public class DifNumbers {
 	  int red2 = 17;
 	  int rif;
       rif = red1 - red2;
-      logger.log("Sum of these numbers: " + rif);
+      System.out.println("Sum of these numbers: " + rif);
    }
    
 }
