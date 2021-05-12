@@ -2,13 +2,13 @@ package src;
 
 public class AddTwoNumbers {
    
-   public static void main(String[] args) {
+   public static void main(String args[]) {
       
       int num1 = 5;
-	  int num2 = 15;
-	  int sum;
+	  int num2 = 21;
+	  int sum, sub;
 
-      sum = num1 + num2;
+      sum = sub = num1 + num2;
       
       System.out.println("Sum of these numbers: " + sum);
    }
