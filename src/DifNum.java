@@ -1,3 +1,5 @@
+package srcv.java;
+
 public class DifNumbers {
 
    public static void main(String[] args) {
